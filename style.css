@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+    color:rgb(253, 4, 137);
+}
+.background{
+    width: 100%;
+    height: 100vh;
+    background:url("b6.jpg");
+    position: fixed;
+    background-size: cover;
+    z-index: -100;
+}
+.area{
+    font-size: 100px;
+    font-weight: bold;
+}
+.birthday{
+    padding-left: 2%;
+  
+
+}
+.name{
+    font-size: 150px;
+    font-family:cursive;
+    padding-right: 60%;
+   
+    text-align: right;
+}
+.lines{
+    color:wheat;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    padding:10%;
+}
+.imgarea{
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 150px;
+}
+img{
+    width:500px;
+    height:500px;
+    border-radius: 250px;
+    margin-top: 80px;
+}
+
+.img_right{
+    margin-left: 50%;
+}
+
